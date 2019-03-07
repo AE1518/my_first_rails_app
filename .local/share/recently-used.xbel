@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///media/ae1518/VBox_GAs_6.0.4" added="2019-03-05T04:08:13Z" modified="2019-03-06T00:41:31Z" visited="2019-03-05T04:08:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;nautilus-autorun-software %u&apos;" modified="2019-03-06T00:41:31Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ae1518/Pictures/Screenshot%20from%202019-03-05%2017-32-14.png" added="2019-03-05T22:32:14Z" modified="2019-03-05T22:32:14Z" visited="2019-03-05T22:32:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2019-03-05T22:32:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ae1518/Pictures/Screenshot%20from%202019-03-05%2017-36-02.png" added="2019-03-05T22:36:02Z" modified="2019-03-05T22:36:02Z" visited="2019-03-05T22:36:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2019-03-05T22:36:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ae1518/Pictures/Screenshot%20from%202019-03-05%2017-38-51.png" added="2019-03-05T22:38:51Z" modified="2019-03-05T22:38:51Z" visited="2019-03-05T22:38:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2019-03-05T22:38:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ae1518/Pictures/Screenshot%20from%202019-03-05%2017-39-15.png" added="2019-03-05T22:39:16Z" modified="2019-03-05T22:39:16Z" visited="2019-03-05T22:39:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2019-03-05T22:39:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ae1518/Downloads/code_1.31.1-1549938243_amd64.deb" added="2019-03-06T01:40:59Z" modified="2019-03-06T01:40:59Z" visited="2019-03-06T01:40:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2019-03-06T01:40:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

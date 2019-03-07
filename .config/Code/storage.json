@@ -1,0 +1,25 @@
+{
+    "telemetry.machineId": "c96609dd3447e0262487f6ec0f96d30075f0e531dffca042cf4ef32b61f79ab8",
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "backupPath": "/home/ae1518/.config/Code/Backups/1551836689368",
+            "uiState": {
+                "mode": 1,
+                "x": 279,
+                "y": 393,
+                "width": 1024,
+                "height": 768
+            }
+        }
+    },
+    "openedPathsList": {
+        "workspaces2": [],
+        "files2": [
+            "file:///home/ae1518/odin_on_rails/my_first_rails_app/Gemfile",
+            "file:///home/ae1518/Gemfile"
+        ]
+    }
+}
